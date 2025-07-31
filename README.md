@@ -1,13 +1,13 @@
-# UIP-0133
+# UIP-0133 (draft)
 uip_0133_crosschain_identities
-```
+---
 UIP-0133: Tokenized Moons and Comets for Cross-Chain Identity and Privacy
 Title: Multi-Asset Identity Extensions and Cross-Chain Integration for Urbit
 Author: ~molseb-naphes
 Status: Draft
 Created: 2025-07-30
 License: MIT
-```
+---
 
 ## Abstract
 
